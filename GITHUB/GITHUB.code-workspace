@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../imagen fondo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GITHUB"
+	}
+}

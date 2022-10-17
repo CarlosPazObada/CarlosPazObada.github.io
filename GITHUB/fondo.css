@@ -1,0 +1,8 @@
+body{
+    background: url(portada1.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    align-items: center;
+    background-attachment: fixed;
+}
